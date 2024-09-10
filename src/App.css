@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+input{
+    background:none;
+    border-bottom: 2px dotted black ;
+    outline: none;
+   
+}
+#used_car_city{
+    height: 600px;
+}
+#footer{
+    height: 600px;
+}
